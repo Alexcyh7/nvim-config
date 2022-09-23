@@ -1,5 +1,5 @@
 # My personal modern NeoVim config
-This repo is based on the setting from `https://github.com/leslie255/nvim-confi://github.com/leslie255/nvim-config`.
+This repo is based on the setting from [nvim-config](https://github.com/leslie255/nvim-config).
 
 ## Setup
 0. Use the latest version of NVIM
